@@ -1,0 +1,1 @@
+A decade ago, Master said, an MCS family policy cost $1,000 a month with no deductible. Now it's more than $2,000 a month with a $6,000 deductible.

@@ -1,0 +1,1 @@
+[[Why cant insurance companies negotiate lower? Why are they not incentivized to do so??]]

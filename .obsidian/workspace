@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "cdb4330fd5f1d856",
+    "type": "split",
+    "children": [
+      {
+        "id": "07f90f78aba9896c",
+        "type": "split",
+        "children": [
+          {
+            "id": "d1f40e8637373d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why cant insurance companies negotiate lower? Why are they not incentivized to do so??.md",
+                "mode": "source"
+              }
+            },
+            "group": "d7d076ce79438d63"
+          },
+          {
+            "id": "df90a66ebe6d4ca3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Why cant insurance companies negotiate lower? Why are they not incentivized to do so??.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8360386601669944,
+                  "close": false
+                }
+              }
+            },
+            "group": "d7d076ce79438d63"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eaf2728b5d2871c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e500dd1798ea7648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "424ec947526bb308",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0a2ab2cccf4b1a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 451
+  },
+  "right": {
+    "id": "c795e5a99cd1cfbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e711b2567ab256fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6356d60006d731ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Why cant insurance companies negotiate lower? Why are they not incentivized to do so??.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d1f40e8637373d27",
+  "lastOpenFiles": [
+    "Why cant insurance companies negotiate lower? Why are they not incentivized to do so??.md",
+    "Why do other countries not have rising drug prices?.md",
+    "Why are insurance companies ok with rising prices?.md",
+    "EU Healthcare Policy.md",
+    "Biologx.md",
+    "Pharmacy Benefit Managers.md",
+    "Stats on rising healthcare expenses.md",
+    "What does it mean for medicare to not be able to negotiate drug prices and why?.md",
+    "Where is the extra money going?.md",
+    "What are the general types of health insurance? which ones have high copay, high deductible?.md"
+  ]
+}

@@ -5,3 +5,7 @@ PBM's negotiate on behalf of insuranec to "get the best deal" but are still for 
 
 
 [http://www.pbmwatch.com/the-pbm-problem.html#:~:text=Although%20the%20primary%20function%20of,ultimately%20increased%20the%20cost%20of](http://www.pbmwatch.com/the-pbm-problem.html#:~:text=Although%20the%20primary%20function%20of,ultimately%20increased%20the%20cost%20of)
+
+The U.S. pharmacy benefit management market size was valued at USD **368.3 billion** in 2018. It is expected to expand at a **CAGR of 9.2% over the forecast period**. Increase in healthcare expenditure has played a pivotal role in the development of the market.
+
+PBM growth is estimated to continuously outpace inflation in terms of growth, and is about 60% of the pharma market, with total spending of medicine at 539 billion

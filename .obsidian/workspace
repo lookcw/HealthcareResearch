@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/20211123.md",
+            "file": "Medical Coding.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/20211123.md",
+                "file": "Medical Coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "17834bb5e1b9ec25",
   "lastOpenFiles": [
+    "Medical Coding.md",
+    "Hospital Billing.md",
+    "Journal/20211130.md",
+    "Journal/20211128.md",
+    "Supply Chain Inefficiencies.md",
     "Journal/20211123.md",
     "Group Purchasing Organizations.md",
     "Pharmacy Benefit Managers.md",
     "Heatlthcare cost breakdown.md",
-    "Pasted image 20211123212851.png",
-    "Why cant insurance companies negotiate lower? Why are they not incentivized to do so??.md",
-    "Why do other countries not have rising drug prices?.md",
-    "Why are insurance companies ok with rising prices?.md",
-    "EU Healthcare Policy.md",
-    "Biologx.md"
+    "Pasted image 20211123212851.png"
   ]
 }

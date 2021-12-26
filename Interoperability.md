@@ -1,0 +1,5 @@
+Interoperable electronic health records (EHR) **allow the electronic sharing of patient information between different EHR systems and healthcare providers**. ... Interoperability allows for access to, exchange, and cooperatively use data — the goal being to optimize the health of individuals and populations.
+
+ONC/ CMS recently released two imperatives that force ehrs to give patients access to their records. 
+[https://www.fiercehealthcare.com/tech/hhs-releases-final-interoperability-data-blocking-regulations](https://www.fiercehealthcare.com/tech/hhs-releases-final-interoperability-data-blocking-regulations)
+[https://www.fiercehealthcare.com/payer/cms-interoperability-rule-requires-major-changes-for-payers-hospitals-here-are-key-timelines](https://www.fiercehealthcare.com/payer/cms-interoperability-rule-requires-major-changes-for-payers-hospitals-here-are-key-timelines)

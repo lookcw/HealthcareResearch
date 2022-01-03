@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interoperability.md",
+            "file": "Journal/20220101.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interoperability.md",
+                "file": "Journal/20220101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "4a9bf790d81caa66",
   "lastOpenFiles": [
-    "Interoperability.md",
+    "Journal/20220101.md",
     "Journal/20211225.md",
+    "ACA exchange program.md",
+    "Journal/20211226.md",
+    "Interoperability.md",
     "Journal/20211121.md",
     "Journal/20211123.md",
     "Journal/20211128.md",
     "Journal/20211130.md",
-    "Biologx.md",
-    "EverGreening.md",
-    "Heatlthcare cost breakdown.md",
-    "Hospital Billing.md"
+    "Biologx.md"
   ]
 }
